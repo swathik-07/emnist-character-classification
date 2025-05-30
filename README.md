@@ -1,5 +1,3 @@
-# emnist-character-classification
-Comparison of MLP and CNN models on EMNIST dataset using PyTorch
 # EMNIST Character Classification Using MLP and CNN
 
 This project compares two deep learning models a **Multi-Layer Perceptron (MLP)** and a **Convolutional Neural Network (CNN)** on the **EMNIST dataset**, which contains handwritten digits and characters. The goal is to classify these characters accurately using PyTorch, applying techniques like dropout, batch normalization, learning rate scheduling, and regularization.
