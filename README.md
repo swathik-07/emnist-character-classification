@@ -68,3 +68,9 @@ This project compares two deep learning models a **Multi-Layer Perceptron (MLP)*
 - Model evaluation using loss and accuracy metrics is essential for monitoring training quality.
 
 ---
+## Future Improvements
+
+- Increase number of epochs for deeper learning
+- Experiment with learning rate warm-up
+- Include F1-score and confusion matrix for finer performance analysis
+- Explore deeper CNN or ResNet-based architectures
